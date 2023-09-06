@@ -1,1 +1,2 @@
 # odin-recipes
+September 6th 2023: Hi! This will be a recipe list made within VS Code demonstrating my HTML skills as well as polishing on my Git skills within GitHub. In the future this will be cleaned up with CSS that I learn later on within The Odin Project! Thank you and I look forward to my continued growth. 
